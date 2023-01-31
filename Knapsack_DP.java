@@ -47,7 +47,7 @@ class Knapsack_datatype{
         }
     }
 }
-public class Knapsack {
+public class Knapsack_DP {
     public static void main(String[] args){
         Knapsack_datatype k=new Knapsack_datatype();
         k.fill();

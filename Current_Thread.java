@@ -9,7 +9,7 @@ public class Current_Thread {
             for(int i=1;i<=5;i++){
                 System.out.println(i);
                 System.out.println(t.isAlive());
-                t.sleep(1000);
+                Thread.sleep(1000);
                 System.out.println(t.isAlive());
             }
         }catch(InterruptedException e){
