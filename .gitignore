@@ -1,3 +1,4 @@
-
- *.class
- *.exe
+# ignore all files in the .gitignore file
+# ignore .class file and .exe file
+*.class 
+*.exe
