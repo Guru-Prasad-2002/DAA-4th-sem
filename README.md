@@ -13,4 +13,4 @@ List of algorithms implemented:
 * Merge Sort
 * Quick Sort
 * Hamiltonian Cycle Problem
-* Sum of Subset Problem
+<!-- * Sum of Subset Problem -->
